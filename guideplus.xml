@@ -1,0 +1,440 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="aisplay.ais.co.th" site="tv.trueid.net" site="gigatv.3bb.co.th" site="totiptv.com" site="dtvguide.nbtc.go.th" >
+  <channels>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5f9e908c12008d9caab3cf3b" xmltv_id="NBT 2 HD">NBT 2 HD</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="6378ef895b10cf050fd01614" xmltv_id="TPBS">TPBS</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5efdd162fbb0045345ef2b61" xmltv_id="ALTV4">ALTV4</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5b335ab3d817de6d62889a6b" xmltv_id="CH5 HD">CH5 HD</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="627a27b26dbfe345cfc8a27f" xmltv_id="T-Sports7">T-Sports7</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="597be02d7ed5a24e46f67254" xmltv_id="Parliament">Parliament</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59671d1cd817de1df19711a6" xmltv_id="TNN24">TNN24</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="637b3a816d6b13ecd5676af4" xmltv_id="JKN 18">JKN 18</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="6378f08337d179394ce585f4" xmltv_id="Nation TV">Nation TV</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="632f2696fd54ec81809f7920" xmltv_id="Workpoint TV">Workpoint TV</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5b3359d9bf6aee16d7459c25" xmltv_id="True 4 U">True 4 U</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5a702c48d817de6932b0db7a" xmltv_id="GMM25">GMM25</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5a127510d817de0fae3b6f2c" xmltv_id="CH8">CH8</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="60811938fa3813c616f38b63" xmltv_id="MONO">MONO</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5efec3f10f6d9dc4b26c6e77" xmltv_id="MCOT HD">MCOT HD</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5a1685baaae731375f0eb728" xmltv_id="ONE 31 HD">ONE 31 HD</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="60bd9c7b497960d3f9a3e222" xmltv_id="Thairath TV HD">Thairath TV HD</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59592e08bf6aee4e3ecce051" xmltv_id="3 HD">3 HD</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5b335b61bf6aee16d8c33382" xmltv_id="AmarinTV HD">AmarinTV HD</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5abdd28daae73161cb8ef446" xmltv_id="CH7 HD">CH7 HD</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5d4bebb6aae7315312049035" xmltv_id="PPTV HD">PPTV HD</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5fdb33c120ccacf849c813ef" xmltv_id="Video to Home 9">Video to Home 9</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="63ca409d1eb6dd945e497d20" xmltv_id="3BB Asian">3BB Asian</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="597e004b7ed5a24e46f6725a" xmltv_id="Warner TV">Warner TV</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="63ca444c1eb6dd945e497d3f" xmltv_id="MONO29 Plus">MONO29 Plus</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5ee1eb4d0f24872fd951d196" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5e44faeeaae73158d325f8f9" xmltv_id="HITS Movies">HITS Movies</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5e44fa35d817de012cef5618" xmltv_id="HITS">HITS</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="598125d57ed5a21c6fb45617" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59592cc8aae7312bfffb2c88" xmltv_id="HBO Signature">HBO Signature</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59592c59aae7312bfffb2c87" xmltv_id="HBO Hits">HBO Hits</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59590d69aae7312bfffb2c83" xmltv_id="HBO Family">HBO Family</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59592520aae7312bfffb2c85" xmltv_id="CINEMAX">CINEMAX</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="597fff9d7ed5a20c8ae865d9" xmltv_id="Mangkorn">Mangkorn</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59ab204faae7311c5f0cc5ea" xmltv_id="ROCK ENTERTAINMENT">ROCK ENTERTAINMENT</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59ab219daae7311c60cf2046" xmltv_id="ROCK Action">ROCK Action</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="63ca45e715182d3fb16cfc58" xmltv_id="MONO29 Music Station">MONO29 Music Station</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5982fdad7ed5a21c6e121653" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5981dd977ed5a21c6e12164f" xmltv_id="Asian Food Network">Asian Food Network</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5e5876cad817de24ea74e05c" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="61235ca211d800df004416c6" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="62d62a4e2130d96031827774" xmltv_id="Global Trekker">Global Trekker</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5ebcad31d21c14a2223158b2" xmltv_id="TechStorm">TechStorm</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5e588aaebf6aee2296382b1e" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a998e0aae7311c60cf202f" xmltv_id="MVTV">MVTV</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59671fe1bf6aee05db70dc41" xmltv_id="Media TV">Media TV</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5981e47d7ed5a21c6fb4562b" xmltv_id="ATTV">ATTV</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5967375cbf6aee05dcdfc126" xmltv_id="Esan TV">Esan TV</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a999e8aae7311c60cf2030" xmltv_id="Five Channel">Five Channel</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5ffebc5e3c4cabc51fbcf288" xmltv_id="LunthungTV">LunthungTV</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a99adfaae7311c60cf2032" xmltv_id="4050">4050</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59673612d817de1df19711a7" xmltv_id="Topline">Topline</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a99ce5aae7311c60cf2035" xmltv_id="MV Lao">MV Lao</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a99d42aae7311c60cf2036" xmltv_id="Mix Major">Mix Major</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="598301c87ed5a21c6e121654" xmltv_id="GOLF CHANNEL">GOLF CHANNEL</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="63ca42326238120ef33901de" xmltv_id="3BB Sports One">3BB Sports One</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5e621fbd609ced33d4659e1c" xmltv_id="Eurosport Asia">Eurosport Asia</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="61235e2644da4cc730e2f51b" xmltv_id="EDGEsport Channel">EDGEsport Channel</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5e69984f609ced33cfa4e734" xmltv_id="beIN SPORTS 1">beIN SPORTS 1</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="61c5829074626a5b6513d909" xmltv_id="beIN SPORTS 2">beIN SPORTS 2</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5e699a69bf6aee30a499dc9b" xmltv_id="beIN SPORTS 3">beIN SPORTS 3</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5e69f972aae7314871ad547f" xmltv_id="beIN SPORTS 4">beIN SPORTS 4</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5e69f9fdaae7314873fbb5b1" xmltv_id="beIN SPORTS 5">beIN SPORTS 5</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5e69fa66bf6aee30a62efd75" xmltv_id="beIN SPORTS 6">beIN SPORTS 6</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="641a9b6ddb472159b1382cb7" xmltv_id="Boomerang SEA">Boomerang SEA</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5a52f069aae731507f5387bb" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5ee1ecafb544d498b9d1d2e8" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59674024d817de1df066ecdd" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="597dfea47ed5a24e46f67259" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="597d21477ed5a24e46f67258" xmltv_id="Cartoon Club">Cartoon Club</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5be2f92ebf6aee07248a5069" xmltv_id="AniPlus">AniPlus</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5d424cdbaae73145f7f2b675" xmltv_id="TOONEE">TOONEE</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5e6218ceaae7314874e32c05" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5e6213552db06c1022f7bec4" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5e6215e6d817de33506cedf7" xmltv_id="Discovery Asia">Discovery Asia</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="598069357ed5a20c89aa1f43" xmltv_id="NHK">NHK</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="64351e9837c2512cd5c7b7b4" xmltv_id="RT Documentary">RT Documentary</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="598309267ed5a21c6fb45632" xmltv_id="HLN">HLN</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5a52efbcbf6aee7c9a68c2a0" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="61235b03478b13d4fb75e2c4" xmltv_id="BBC News">BBC News</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="625fc46bcaf7c1c51468cf87" xmltv_id="CCTV4">CCTV4</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="625fc6c1caf7c1c51468cf8d" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="628afb3359cb25f3fc0cbb6c" xmltv_id="JKN-CNBC">JKN-CNBC</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="597e16737ed5a24e45c3ab22" xmltv_id="Channel News Asia">Channel News Asia</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a9a636aae7311c5f0cc5da" xmltv_id="Euro News">Euro News</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a9a6b7aae7311c5f0cc5db" xmltv_id="DW">DW</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a9a74baae7311c5f0cc5dc" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5d6f234caae7315311b36904" xmltv_id="Arirang">Arirang</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a9a80baae7311c60cf2039" xmltv_id="News 1">News 1</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a9a85eaae7311c5f0cc5dd" xmltv_id="Police TV">Police TV</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5e588a5c2db06c1ca29b13c4" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="605dad7dcebeb6db82829183" xmltv_id="TOP News">TOP News</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="64351ccf37c2512cd5c7b7a3" xmltv_id="RT Channel">RT Channel</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="645b197f625d2788453cb91a" xmltv_id="TVBS News">TVBS News</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a9ac93aae7311c60cf203a" xmltv_id="DLTV1">DLTV1</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a9ace1aae7311c60cf203b" xmltv_id="DLTV2">DLTV2</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a9acf5aae7311c5f0cc5de" xmltv_id="DLTV3">DLTV3</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a9ad01aae7311c60cf203c" xmltv_id="DLTV4">DLTV4</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a9adfbaae7311c5f0cc5df" xmltv_id="DLTV5">DLTV5</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a9aeaaaae7311c60cf203d" xmltv_id="DLTV6">DLTV6</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59672d63bf6aee05dcdfc120" xmltv_id="DLTV7">DLTV7</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a9aef8aae7311c60cf203e" xmltv_id="DLTV8">DLTV8</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a9af5caae7311c60cf203f" xmltv_id="DLTV9">DLTV9</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a9af65aae7311c60cf2040" xmltv_id="DLTV10">DLTV10</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59ab1e38aae7311c60cf2044" xmltv_id="DLTV11">DLTV11</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59ab1e80aae7311c5f0cc5e8" xmltv_id="DLTV12">DLTV12</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59ab1eb3aae7311c5f0cc5e9" xmltv_id="DLTV13">DLTV13</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5967310fbf6aee05dcdfc123" xmltv_id="DLTV14">DLTV14</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59673200bf6aee05dcdfc124" xmltv_id="DLTV15">DLTV15</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59673276bf6aee05db70dc43" xmltv_id="ETV">ETV</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="597c7a317ed5a24e45c3ab18" xmltv_id="DHARMA TV">DHARMA TV</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="596738c5bf6aee05dcdfc127" xmltv_id="DDTV">DDTV</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a9b19eaae7311c5f0cc5e2" xmltv_id="NEW TM">NEW TM</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59671e0baae73105f49f533e" xmltv_id="White Channel">White Channel</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59a9b265aae7311c5f0cc5e3" xmltv_id="JKN HI SHOPPING">JKN HI SHOPPING</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59671ccbbf6aee05dcdfc11b" xmltv_id="O shopping">O shopping</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="598300497ed5a21c6fb4562e" xmltv_id="TVD MOMO">TVD MOMO</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="597d0c6a7ed5a24e45c3ab1b" xmltv_id="TVD 1">TVD 1</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5d42a7e8d817de5a805c4b87" xmltv_id="True Shopping">True Shopping</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5d427b97d817de5a7fc2ec8d" xmltv_id="TrueSelect">TrueSelect</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##c03" xmltv_id="CH3 HD">CH3 HD</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##d56" xmltv_id="One HD">One HD</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##d05" xmltv_id="Thairath TV HD">Thairath TV HD</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##d43" xmltv_id="Mono 29">Mono 29</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##d83" xmltv_id="Workpoint TV">Workpoint TV</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##c07" xmltv_id="CH 7HD">CH 7HD</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##da0" xmltv_id="Amarin TV">Amarin TV</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##da7" xmltv_id="PPTV">PPTV</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##d78" xmltv_id="Nation TV 22">Nation TV 22</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##d62" xmltv_id="CH8">CH8</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##c12" xmltv_id="TPBS">TPBS</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##d11" xmltv_id="JKN 18">JKN 18</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##207" xmltv_id="True4U">True4U</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##d76" xmltv_id="GMM 25">GMM 25</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##135" xmltv_id="TNN​ 16">TNN​ 16</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##c09" xmltv_id="9 MCOT HD">9 MCOT HD</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##vc01" xmltv_id="True Ball Thai 1">True Ball Thai 1</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##c11" xmltv_id="NBT">NBT</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##ht111" xmltv_id="True Premier Football 1">True Premier Football 1</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##i007" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##t514" xmltv_id="T Sports 7">T Sports 7</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##c05" xmltv_id="CH 5">CH 5</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##107" xmltv_id="Reality">Reality</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##ht112" xmltv_id="True Premier Football 2">True Premier Football 2</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##057" xmltv_id="True Movie Hits">True Movie Hits</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##t516" xmltv_id="TNN​ 16 HD">TNN​ 16 HD</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##dum024" xmltv_id="ALTV">ALTV</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##143" xmltv_id="Cartoon Club">Cartoon Club</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##he001" xmltv_id="ID Station">ID Station</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##139" xmltv_id="True Plookpanya">True Plookpanya</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##ht117" xmltv_id="True Sports 3">True Sports 3</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##176" xmltv_id="True Film 1">True Film 1</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##105" xmltv_id="True Sports 7">True Sports 7</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##215" xmltv_id="beIN SPORTS 3">beIN SPORTS 3</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##ht116" xmltv_id="True Sports 2">True Sports 2</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##094" xmltv_id="True Thai Film">True Thai Film</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##d31" xmltv_id="TPTV - Thai Parliament TV">TPTV - Thai Parliament TV</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##202" xmltv_id="beIN SPORTS 1">beIN SPORTS 1</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##081" xmltv_id="True Asian More">True Asian More</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##061" xmltv_id="True Explore Sci">True Explore Sci</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##o020" xmltv_id="Mangorn">Mangorn</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##060" xmltv_id="True Explore Life">True Explore Life</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##i008" xmltv_id="COOL CH">COOL CH</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##128" xmltv_id="Rama Channel">Rama Channel</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##mun01" xmltv_id="Manchester United">Manchester United</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##097" xmltv_id="True Sports 1">True Sports 1</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##058" xmltv_id="True Explore Wild">True Explore Wild</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##007" xmltv_id="True Spark Play">True Spark Play</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##127" xmltv_id="True Shopping">True Shopping</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##218" xmltv_id="True Select">True Select</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##liv01" xmltv_id="Liverpool">Liverpool</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##095" xmltv_id="Golf Channel Thailand HD">Golf Channel Thailand HD</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##034" xmltv_id="True X-Zyte">True X-Zyte</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##ars01" xmltv_id="Arsenal">Arsenal</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##t500" xmltv_id="True Film Asia">True Film Asia</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##t506" xmltv_id="True Korean More">True Korean More</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##221" xmltv_id="True Film 2">True Film 2</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##045" xmltv_id="True Tennis">True Tennis</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##o016" xmltv_id="Dhamma TV">Dhamma TV</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##159" xmltv_id="True Music">True Music</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##vc02" xmltv_id="True Ball Thai 2">True Ball Thai 2</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##101" xmltv_id="True Spark Jump">True Spark Jump</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##che01" xmltv_id="Chelsea">Chelsea</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##040" xmltv_id="True Inside">True Inside</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##t513" xmltv_id="NFL \u0026 NBA TV">NFL \u0026 NBA TV</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##t510" xmltv_id="Golf Channel Thailand HD Plus">Golf Channel Thailand HD Plus</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##t501" xmltv_id="White Channel">White Channel</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##i006" xmltv_id="@TV">@TV</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##i002" xmltv_id="True Premier Football 3">True Premier Football 3</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##ht113" xmltv_id="True Sports 5">True Sports 5</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##056" xmltv_id="True Store">True Store</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##ev04" xmltv_id="DLTV 2">DLTV 2</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##dum002" xmltv_id="Esports Thai Leagues TV">Esports Thai Leagues TV</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##he002" xmltv_id="beIN SPORTS 2">beIN SPORTS 2</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##t521" xmltv_id="DLTV 15">DLTV 15</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##dum015" xmltv_id="DLTV 1">DLTV 1</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##dum001" xmltv_id="DLTV 3">DLTV 3</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##dum003" xmltv_id="True Premier Football 5">True Premier Football 5</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##ht115" xmltv_id="TNN 2">TNN 2</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##074" xmltv_id="True Series">True Series</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##st006" xmltv_id="Media TV">Media TV</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##i003" xmltv_id="True Chinese More">True Chinese More</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##t505" xmltv_id="True Premier Football 8">True Premier Football 8</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##t504" xmltv_id="True Premier Football 4">True Premier Football 4</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##ht114" xmltv_id="Zee Anmol">Zee Anmol</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##i005" xmltv_id="DLTV 4">DLTV 4</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##dum004" xmltv_id="DLTV 7">DLTV 7</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##dum007" xmltv_id="SPOTV 2">SPOTV 2</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##t511" xmltv_id="Zing">Zing</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##ev02" xmltv_id="DLTV 6">DLTV 6</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##i001" xmltv_id="DLTV 13">DLTV 13</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##dum006" xmltv_id="Crime Investigation">Crime Investigation</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##dum013" xmltv_id="DLTV 5">DLTV 5</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##t517" xmltv_id="DLTV 12">DLTV 12</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##dum005" xmltv_id="DLTV 14">DLTV 14</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##dum012" xmltv_id="True Sports 4">True Sports 4</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##dum014" xmltv_id="DLTV 8">DLTV 8</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##ev03" xmltv_id="Manchester City">Manchester City</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##062" xmltv_id="beIN SPORTS 4">beIN SPORTS 4</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##dum008" xmltv_id="DLTV 9">DLTV 9</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##mci01" xmltv_id="DLTV 10">DLTV 10</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##217" xmltv_id="DLTV 11">DLTV 11</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##dum009" xmltv_id="Tottenham Hotspur">Tottenham Hotspur</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##dum010" xmltv_id="Newcastle United">Newcastle United</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##dum011" xmltv_id="True Ball Thai 3">True Ball Thai 3</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##tot01" xmltv_id="beIN SPORTS 6">beIN SPORTS 6</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##new01" xmltv_id="True Premier Football 6">True Premier Football 6</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##vc03" xmltv_id="DW English">DW English</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##emer03" xmltv_id="ETV">ETV</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##emer05" xmltv_id="Arirang TV">Arirang TV</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##216" xmltv_id="Super Bunteung">Super Bunteung</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##t502" xmltv_id="Everton">Everton</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##t518" xmltv_id="beIN SPORTS 5">beIN SPORTS 5</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##emer04" xmltv_id="True Premier Football 7">True Premier Football 7</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##da2" xmltv_id="Brighton-and-Hove-Albion">Brighton-and-Hove-Albion</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##t519" xmltv_id="Nottingham Forest">Nottingham Forest</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##108" xmltv_id="Bournemouth">Bournemouth</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##eve01" xmltv_id="Brentford">Brentford</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##219" xmltv_id="Burnley">Burnley</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##t503" xmltv_id="Luton Town">Luton Town</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##bha01" xmltv_id="Sheffield United">Sheffield United</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##nfo01" xmltv_id="ทดสอบการออกอากาศ">ทดสอบการออกอากาศ</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##bou01" xmltv_id="Aston Villa">Aston Villa</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##bre01" xmltv_id="West Ham United">West Ham United</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##brn01" xmltv_id="Wolves">Wolves</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##lut01" xmltv_id="Crystal-Palace">Crystal-Palace</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##shu01" xmltv_id="Fulham">Fulham</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##tmp003" xmltv_id="ช่องทดสอบออกอากาศที่2">ช่องทดสอบออกอากาศที่2</channel>
+    <channel update="i" site="tv.trueid.net" site_id="en##avl01" xmltv_id="UFC">UFC</channel>
+<channel update="i" site="gigatv.3bb.co.th" site_id="2" xmltv_id="NBT">NBT</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="3" xmltv_id="ThaiPBS">ThaiPBS</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="4" xmltv_id="ALTV">ALTV</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="5" xmltv_id="TV5 HD">TV5 HD</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="7" xmltv_id="T Sports 7">T Sports 7</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="10" xmltv_id="TPTV">TPTV</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="16" xmltv_id="TNN16">TNN16</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="18" xmltv_id="JKN 18">JKN 18</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="22" xmltv_id="Nation TV">Nation TV</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="23" xmltv_id="Workpoint">Workpoint</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="24" xmltv_id="True4U">True4U</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="25" xmltv_id="GMM 25">GMM 25</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="27" xmltv_id="CH8">CH8</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="29" xmltv_id="Mono 29">Mono 29</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="30" xmltv_id="MCOT HD">MCOT HD</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="31" xmltv_id="ONE31 HD">ONE31 HD</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="32" xmltv_id="Thairath TV">Thairath TV</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="33" xmltv_id="3HD">3HD</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="34" xmltv_id="AmarinTV HD">AmarinTV HD</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="35" xmltv_id="CH7 HD">CH7 HD</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="36" xmltv_id="PPTV HD">PPTV HD</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="101" xmltv_id="3BB Asian">3BB Asian</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="103" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="104" xmltv_id="HBO Signature">HBO Signature</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="105" xmltv_id="HBO Hits">HBO Hits</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="106" xmltv_id="HBO Family">HBO Family</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="107" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="108" xmltv_id="ROCK Action">ROCK Action</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="109" xmltv_id="Mono29 Plus">Mono29 Plus</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="121" xmltv_id="Mangorn">Mangorn</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="88" xmltv_id="JKN HI SHOPPING">JKN HI SHOPPING</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="202" xmltv_id="MONO 29 Music Station">MONO 29 Music Station</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="203" xmltv_id="RUSH">RUSH</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="204" xmltv_id="A'lure Channel">A'lure Channel</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="205" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="207" xmltv_id="Hunan TV HD">Hunan TV HD</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="208" xmltv_id="Yunnan International">Yunnan International</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="209" xmltv_id="NHK WORLD-JAPAN">NHK WORLD-JAPAN</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="301" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="302" xmltv_id="Boomerang (Asia)">Boomerang (Asia)</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="303" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="304" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="305" xmltv_id="Cartoon Club HD">Cartoon Club HD</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="306" xmltv_id="Boomerang (Thai)">Boomerang (Thai)</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="401" xmltv_id="3BB Sports One">3BB Sports One</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="403" xmltv_id="EDGE Sport">EDGE Sport</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="411" xmltv_id="Golf Channel Thailand HD Plus">Golf Channel Thailand HD Plus</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="501" xmltv_id="Love Nature 4K">Love Nature 4K</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="502" xmltv_id="Global Trekker">Global Trekker</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="503" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="77" xmltv_id="TOP NEWS">TOP NEWS</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="601" xmltv_id="BBC News">BBC News</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="602" xmltv_id="CNN INTERNATIONNAL">CNN INTERNATIONNAL</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="603" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="604" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="605" xmltv_id="CCTV 4">CCTV 4</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="606" xmltv_id="Al Jazeera English HD">Al Jazeera English HD</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="607" xmltv_id="CNA">CNA</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="608" xmltv_id="JKN-CNBC">JKN-CNBC</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="504" xmltv_id="DLTV 1">DLTV 1</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="505" xmltv_id="DLTV 2">DLTV 2</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="506" xmltv_id="DLTV 3">DLTV 3</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="507" xmltv_id="DLTV 4">DLTV 4</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="508" xmltv_id="DLTV 5">DLTV 5</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="509" xmltv_id="DLTV 6">DLTV 6</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="510" xmltv_id="DLTV 7">DLTV 7</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="511" xmltv_id="DLTV 8">DLTV 8</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="512" xmltv_id="DLTV 9">DLTV 9</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="513" xmltv_id="DLTV 10">DLTV 10</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="514" xmltv_id="DLTV 11">DLTV 11</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="515" xmltv_id="DLTV 12">DLTV 12</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="516" xmltv_id="DLTV 13">DLTV 13</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="517" xmltv_id="DLTV 14">DLTV 14</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="518" xmltv_id="DLTV 15">DLTV 15</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="519" xmltv_id="ETV">ETV</channel>
+    <channel update="i" site="totiptv.com" site_id="c1d76d9af4a24c6193e3e35a435f2ded" xmltv_id="Choice Preview">Choice Preview</channel>
+    <channel update="i" site="totiptv.com" site_id="1d92193b11fe490b8c67d0a88bee3fd6" xmltv_id="TV5 HD1">TV5 HD1</channel>
+    <channel update="i" site="totiptv.com" site_id="ce9a1585f45d4379970b95308df3f879" xmltv_id="NBT">NBT</channel>
+    <channel update="i" site="totiptv.com" site_id="D7182FAE6E9F4D929BDB5AE06059BDA8" xmltv_id="Thai PBS HD">Thai PBS HD</channel>
+    <channel update="i" site="totiptv.com" site_id="e1464d4ef4aa4bbc972073bb4ebe17fd" xmltv_id="TPTV">TPTV</channel>
+    <channel update="i" site="totiptv.com" site_id="93d89e479ef9499a9c1ddc36b85e4190" xmltv_id="CH 3 Family">CH 3 Family</channel>
+    <channel update="i" site="totiptv.com" site_id="2e1f1aff8eaf4a88b4c69a7da5487566" xmltv_id="MCOT Family">MCOT Family</channel>
+    <channel update="i" site="totiptv.com" site_id="80aad4dd6e424c14921832300c74a202" xmltv_id="MVTV Family">MVTV Family</channel>
+    <channel update="i" site="totiptv.com" site_id="77774220bb8e40aa94e549e29ff3ed8a" xmltv_id="TNN 24">TNN 24</channel>
+    <channel update="i" site="totiptv.com" site_id="bfee35dc7917423eb68fc3e5edaaae64" xmltv_id="ไทยทีวี">ไทยทีวี</channel>
+    <channel update="i" site="totiptv.com" site_id="0d01fdc1362f427ca5527c645f5f908f" xmltv_id="new)tv">new)tv</channel>
+    <channel update="i" site="totiptv.com" site_id="1AE0F87662C248D693D2EED30B698760" xmltv_id="Spring News">Spring News</channel>
+    <channel update="i" site="totiptv.com" site_id="89264a79a72b48eeb90f3fde7ae13740" xmltv_id="BRIGHT TV">BRIGHT TV</channel>
+    <channel update="i" site="totiptv.com" site_id="B29F0E7ADA6348C6851BAD32728A6DDB" xmltv_id="Voice TV">Voice TV</channel>
+    <channel update="i" site="totiptv.com" site_id="A5B25476119B46F5B5A34D56F7D1156C" xmltv_id="Nation TV">Nation TV</channel>
+    <channel update="i" site="totiptv.com" site_id="a9a68ab5471d4d39ba25695a66957067" xmltv_id="ช่อง 1 เวิร์คพอยท์">ช่อง 1 เวิร์คพอยท์</channel>
+    <channel update="i" site="totiptv.com" site_id="9ece9059930d4331a3d445f96fb30dff" xmltv_id="TRUE 4 U">TRUE 4 U</channel>
+    <channel update="i" site="totiptv.com" site_id="ab0b43ef8363438098a94101e93ca138" xmltv_id="GMM CHANNEL">GMM CHANNEL</channel>
+    <channel update="i" site="totiptv.com" site_id="732ace1b4983472097eedb0d415dc231" xmltv_id="NOW">NOW</channel>
+    <channel update="i" site="totiptv.com" site_id="fed850f8792b49009c2f222a64eabb4e" xmltv_id="CH 8">CH 8</channel>
+    <channel update="i" site="totiptv.com" site_id="0296e16fac6149ed99004125f37fa2e4" xmltv_id="CH3 SD">CH3 SD</channel>
+    <channel update="i" site="totiptv.com" site_id="fd23603db67344c69a8304a2fca268cd" xmltv_id="MONO29">MONO29</channel>
+    <channel update="i" site="totiptv.com" site_id="3ae2fd6ccaf6499e898de377ed74ea12" xmltv_id="MCOT HD">MCOT HD</channel>
+    <channel update="i" site="totiptv.com" site_id="7e069540a35942e89245865a84add64a" xmltv_id="one HD">one HD</channel>
+    <channel update="i" site="totiptv.com" site_id="b1bc90419ccb4885bb0b544bb2b8ee83" xmltv_id="Thairath TV">Thairath TV</channel>
+    <channel update="i" site="totiptv.com" site_id="a4485b656d764f308c63b14a8bf62326" xmltv_id="CH3 HD">CH3 HD</channel>
+    <channel update="i" site="totiptv.com" site_id="78f57ebcf6064b308d75208a20756983" xmltv_id="AMARIN TV HD">AMARIN TV HD</channel>
+    <channel update="i" site="totiptv.com" site_id="ddfa47e726444446864b14e0e819fdde" xmltv_id="BBTV CH 7">BBTV CH 7</channel>
+    <channel update="i" site="totiptv.com" site_id="623d009180394c528880c14e2254452a" xmltv_id="PPTV">PPTV</channel>
+    <channel update="i" site="totiptv.com" site_id="bcc7d0600c9943f2a1114f5749d180e8" xmltv_id="T-News Channel">T-News Channel</channel>
+    <channel update="i" site="totiptv.com" site_id="f902199d513449e6a51ce477508b1246" xmltv_id="Money Channel">Money Channel</channel>
+    <channel update="i" site="totiptv.com" site_id="6d5587cf7ce94cd8a7477775b7ddc253" xmltv_id="TV 24">TV 24</channel>
+    <channel update="i" site="totiptv.com" site_id="76221348029846b6a86cce2f76e60f82" xmltv_id="ฟ้าวันใหม่">ฟ้าวันใหม่</channel>
+    <channel update="i" site="totiptv.com" site_id="31dbe17e0c1b4c8684200f83b85b007b" xmltv_id="NEWS 1">NEWS 1</channel>
+    <channel update="i" site="totiptv.com" site_id="3F35C4428A0D4004A38FF0ADBA7664F4" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="totiptv.com" site_id="018d9f65365a4744b2c8222ca1d54be9" xmltv_id="Channel NewsAsia">Channel NewsAsia</channel>
+    <channel update="i" site="totiptv.com" site_id="6DE1E752A9974A5980166483C8ED6BB8" xmltv_id="Deutsche Welle (DW)">Deutsche Welle (DW)</channel>
+    <channel update="i" site="totiptv.com" site_id="cd25fccffa6f4a2f8d7190d3e8907440" xmltv_id="NHK WORLD TV">NHK WORLD TV</channel>
+    <channel update="i" site="totiptv.com" site_id="82c764aa2d7f42579348b8717cb5b9a4" xmltv_id="France 24 (English)">France 24 (English)</channel>
+    <channel update="i" site="totiptv.com" site_id="08bcedc834b94e40a295cdd273f4f60d" xmltv_id="O Shopping HD">O Shopping HD</channel>
+    <channel update="i" site="totiptv.com" site_id="FCC2F9D7000747D5A55680D8EBA2B3EF" xmltv_id="Mongkol Channel">Mongkol Channel</channel>
+    <channel update="i" site="totiptv.com" site_id="97f3052bec96482584c5de84dda0d745" xmltv_id="M Channel">M Channel</channel>
+    <channel update="i" site="totiptv.com" site_id="B9BEDB1B0539456DBC84542CF2EBCA7B" xmltv_id="Sabaidee TV">Sabaidee TV</channel>
+    <channel update="i" site="totiptv.com" site_id="FC8195DC989240348772D00DD9EBA3D0" xmltv_id="JKN">JKN</channel>
+    <channel update="i" site="totiptv.com" site_id="345A4277DD864037B6B4FB5A562AF59C" xmltv_id="FAN TV HD">FAN TV HD</channel>
+    <channel update="i" site="totiptv.com" site_id="25713D0629F148ADBFEDBDF4284AFB09" xmltv_id="Miracle TV">Miracle TV</channel>
+    <channel update="i" site="totiptv.com" site_id="8E959F5D739D497C95FAA31B3A810DD6" xmltv_id="You Channel">You Channel</channel>
+    <channel update="i" site="totiptv.com" site_id="AB6ACB38607A4AFF9DC773A6772C91FC" xmltv_id="Mix Major">Mix Major</channel>
+    <channel update="i" site="totiptv.com" site_id="5389167315DC4A619ED5BC72F66A1C4F" xmltv_id="POP TV">POP TV</channel>
+    <channel update="i" site="totiptv.com" site_id="a2ca06da9478412e9501d968e31bbf75" xmltv_id="Thai Chaiyo">Thai Chaiyo</channel>
+    <channel update="i" site="totiptv.com" site_id="4E38ED2FA4DD43999828EAB81196DEFF" xmltv_id="CH 2">CH 2</channel>
+    <channel update="i" site="totiptv.com" site_id="0518392DC56246E1808C211C796D5E84" xmltv_id="MGTV">MGTV</channel>
+    <channel update="i" site="totiptv.com" site_id="1E2B9312FC384567AC6A12E650D8796A" xmltv_id="Dara Daily">Dara Daily</channel>
+    <channel update="i" site="totiptv.com" site_id="e362c185f33d4e2d8ae8921cbff3ca4e" xmltv_id="TGN">TGN</channel>
+    <channel update="i" site="totiptv.com" site_id="9623847065ba466e90632cf686fade0b" xmltv_id="MONO Plus">MONO Plus</channel>
+    <channel update="i" site="totiptv.com" site_id="768ab5caf16e44689c3a75e6a3f57b5c" xmltv_id="Thai Station">Thai Station</channel>
+    <channel update="i" site="totiptv.com" site_id="3e169d2e76cb46c9b3702e34e51ecdba" xmltv_id="Choice Variety HD">Choice Variety HD</channel>
+    <channel update="i" site="totiptv.com" site_id="df468a12ae6547de9637486bdc2025aa" xmltv_id="Fashion TV (SD)">Fashion TV (SD)</channel>
+    <channel update="i" site="totiptv.com" site_id="c316ed9333e54442b25077f0bb3cc269" xmltv_id="Thrill">Thrill</channel>
+    <channel update="i" site="totiptv.com" site_id="1c2276a2f1884b269ce281c3334e8f85" xmltv_id="Celestial Classic Movies (CCM)">Celestial Classic Movies (CCM)</channel>
+    <channel update="i" site="totiptv.com" site_id="8d7f1d2e773647daa82885293723e49a" xmltv_id="Choice Preview ENTERTAINMENT">Choice Preview ENTERTAINMENT</channel>
+    <channel update="i" site="totiptv.com" site_id="860605f7e16d4c6cacef72ef02ffa2c1" xmltv_id="Cartoon Club">Cartoon Club</channel>
+    <channel update="i" site="totiptv.com" site_id="7299670a140849a9aaf946b0302ad886" xmltv_id="Gang Cartoon">Gang Cartoon</channel>
+    <channel update="i" site="totiptv.com" site_id="06c02432266f4f42b48947e075de38c5" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="totiptv.com" site_id="b88de6ab26ed4ceb9d1b9c1e4af4f3b0" xmltv_id="Choice Preview ENTERTAINMENT">Choice Preview ENTERTAINMENT</channel>
+    <channel update="i" site="totiptv.com" site_id="169a149fd1ef40edba0bbfc8e0f1bdd1" xmltv_id="FYI HD (Thai)">FYI HD (Thai)</channel>
+    <channel update="i" site="totiptv.com" site_id="9961a963920f45f4bc0d81c3e478b334" xmltv_id="CI HD">CI HD</channel>
+    <channel update="i" site="totiptv.com" site_id="b6196d19068646b0aab1e651087a4a5b" xmltv_id="Choice Preview Sport">Choice Preview Sport</channel>
+    <channel update="i" site="totiptv.com" site_id="614b0a940fa0486e8c4ad00e51ae22ff" xmltv_id="Choice Sport HD">Choice Sport HD</channel>
+    <channel update="i" site="totiptv.com" site_id="48cac6380caf4f078eafccc63804ac23" xmltv_id="SMM TV">SMM TV</channel>
+    <channel update="i" site="totiptv.com" site_id="e05107e8304b4d118c92b5dffa636715" xmltv_id="Grand Prix Channel">Grand Prix Channel</channel>
+    <channel update="i" site="totiptv.com" site_id="3ee1e656d6ae417a914743328d44f20f" xmltv_id="T Sports Channel">T Sports Channel</channel>
+    <channel update="i" site="totiptv.com" site_id="dbab2fe24ce643689045d3c81e1954d6" xmltv_id="ETV">ETV</channel>
+    <channel update="i" site="totiptv.com" site_id="f128d0ea3136406d9c1cc7db91db03da" xmltv_id="DLTV 1">DLTV 1</channel>
+    <channel update="i" site="totiptv.com" site_id="8b4d5e8c92d44caf8ee144ce5cc5cd80" xmltv_id="DLTV 2">DLTV 2</channel>
+    <channel update="i" site="totiptv.com" site_id="cf271364f6a64785932af875007bc0f7" xmltv_id="DLTV 3">DLTV 3</channel>
+    <channel update="i" site="totiptv.com" site_id="2b73e3b7fe1d4c7c885881b122288d9c" xmltv_id="DLTV 4">DLTV 4</channel>
+    <channel update="i" site="totiptv.com" site_id="ab578d13d39d41b8b23dfda094550165" xmltv_id="DLTV 5">DLTV 5</channel>
+    <channel update="i" site="totiptv.com" site_id="c8634a9ba7db4580bf486cad2efdba5c" xmltv_id="DLTV 6">DLTV 6</channel>
+    <channel update="i" site="totiptv.com" site_id="eeeb920c736845dfbf79b5d6f39efbec" xmltv_id="DLTV 7">DLTV 7</channel>
+    <channel update="i" site="totiptv.com" site_id="cd5f167f6d7041b295f8173323f9b332" xmltv_id="DLTV 8">DLTV 8</channel>
+    <channel update="i" site="totiptv.com" site_id="3b1edacbb4194fd4ae7c787fffddeceb" xmltv_id="DLTV 9">DLTV 9</channel>
+    <channel update="i" site="totiptv.com" site_id="54841b55e45546b6b4ba4cc3ba4b5440" xmltv_id="DLTV 10">DLTV 10</channel>
+    <channel update="i" site="totiptv.com" site_id="659562d7cd394e06bf5a2cd2e743bcf5" xmltv_id="DLTV 11">DLTV 11</channel>
+    <channel update="i" site="totiptv.com" site_id="62a16d17536546629b1daa819e43470e" xmltv_id="DLTV 12">DLTV 12</channel>
+    <channel update="i" site="totiptv.com" site_id="a358daf318cf46a2aeafa01a3644f5f0" xmltv_id="DLTV 13">DLTV 13</channel>
+    <channel update="i" site="totiptv.com" site_id="8b3884226a024af4ba6d89d10afb2194" xmltv_id="DLTV 14">DLTV 14</channel>
+    <channel update="i" site="totiptv.com" site_id="f9603f5472034de7b897f30f1c687b84" xmltv_id="DLTV 15">DLTV 15</channel>
+    <channel update="i" site="totiptv.com" site_id="326A1BC675A843488B0B4D69B4F75246" xmltv_id="DMC">DMC</channel>
+    <channel update="i" site="totiptv.com" site_id="59B6733E43BA4F93AA90A2B58FD77705" xmltv_id="TV Muslim">TV Muslim</channel>
+    <channel update="i" site="totiptv.com" site_id="7d11f01b76514ef199d4974e0a14194c" xmltv_id="YATEEM TV">YATEEM TV</channel>
+    <channel update="i" site="totiptv.com" site_id="766fa98adc10468dbbff7a893c93053e" xmltv_id="ศูนย์การเรียนรู้ ICT ชุมชน">ศูนย์การเรียนรู้ ICT ชุมชน</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="02" xmltv_id="NBT">NBT</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="03" xmltv_id="Thai PBS">Thai PBS</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="05" xmltv_id="ททบ. 5">ททบ. 5</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="10" xmltv_id="สถานีวิทยุโทรทัศน์รัฐสภา">สถานีวิทยุโทรทัศน์รัฐสภา</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="16" xmltv_id="TNN24">TNN24</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="18" xmltv_id="JKN 18">JKN 18</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="22" xmltv_id="Nation TV">Nation TV</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="23" xmltv_id="เวิร์คพอยท์ ทีวี">เวิร์คพอยท์ ทีวี</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="24" xmltv_id="True4U">True4U</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="25" xmltv_id="GMM 25">GMM 25</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="27" xmltv_id="8">8</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="29" xmltv_id="Mono 29">Mono 29</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="30" xmltv_id="MCOT HD">MCOT HD</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="31" xmltv_id="ONE">ONE</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="32" xmltv_id="ไทยรัฐทีวี">ไทยรัฐทีวี</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="33" xmltv_id="3 HD">3 HD</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="34" xmltv_id="AMARIN TV HD">AMARIN TV HD</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="35" xmltv_id="7 HD">7 HD</channel>
+    <channel update="i" site="dtvguide.nbtc.go.th.E" site_id="36" xmltv_id="PPTV">PPTV</channel>
+  </channels>
+</site>
